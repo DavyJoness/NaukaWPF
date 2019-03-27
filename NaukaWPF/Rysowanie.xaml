@@ -1,0 +1,20 @@
+﻿<Window x:Class="NaukaWPF.Rysowanie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NaukaWPF"
+        mc:Ignorable="d"
+        Title="Rysowanie" Height="450" Width="800">
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Left">
+            <TextBlock Text="Co chciałbyś wyświetlić" />
+            <Button x:Name="ButtonDrawWheel" Content="Koło" Click="Button_Click" />
+            <Button x:Name="ButtonDrawRectangle" Content="Prostokąt" Click="ButtonDrawRectangle_Click" />
+        </StackPanel>
+        <Canvas x:Name="drawSpace" Margin="2,2,2,2">
+
+        </Canvas>
+        
+    </DockPanel>
+</Window>

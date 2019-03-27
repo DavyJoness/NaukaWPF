@@ -1,0 +1,17 @@
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\bin\Debug\NaukaWPF.exe.config
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\bin\Debug\NaukaWPF.exe
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\bin\Debug\NaukaWPF.pdb
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF.csprojAssemblyReference.cache
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\App.g.cs
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF_MarkupCompile.cache
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF_MarkupCompile.lref
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\MainWindow.baml
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF.g.resources
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF.Properties.Resources.resources
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF.csproj.GenerateResource.cache
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF.exe
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\NaukaWPF.pdb
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\Rysowanie.g.cs
+C:\Users\mateusz.kielpinski\Documents\Visual Studio 2017\Projects\NaukaWPF\NaukaWPF\obj\Debug\Rysowanie.baml
